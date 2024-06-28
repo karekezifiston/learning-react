@@ -22,4 +22,4 @@ function MyComponent(){
         </div>
     )
 }
-export default MyComponentttttttttttt
+export default MyComponenttttttttttt
